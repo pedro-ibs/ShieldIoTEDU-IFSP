@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name miniShieldESP32-rescue)(type Legacy)(uri ${KIPRJMOD}/miniShieldESP32-rescue.lib)(options "")(descr ""))
+)
